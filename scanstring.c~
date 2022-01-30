@@ -1,0 +1,12 @@
+#include<stdin.h>
+
+int main(){
+  char _s[] = "Salam Kako."
+  char s[100];
+
+  printf(%s\n, *_s);
+  
+
+
+  return 0;
+}
